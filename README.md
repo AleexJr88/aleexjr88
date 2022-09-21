@@ -15,6 +15,7 @@
 
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> 
+  <img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="60" height="60"/> 
 <img src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" alt="solidity" width="60" height="60"/> 
 </p>
 
