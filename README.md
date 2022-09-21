@@ -18,7 +18,7 @@
 <img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="60" height="80"/> 
 <img src="https://chrisconlan.com/wp-content/uploads/2018/06/haskell_logo_2.png" alt="haskell" width="60" height="80"/> 
 <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="oracle" width="60" height="80"/>
-<img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="mongodb" width="60" height="80"/> 
+<img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="mongodb" width="80" height="80"/> 
 
 </p>
 
