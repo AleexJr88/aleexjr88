@@ -19,7 +19,6 @@
 
 ## 💻 Connect with me
 
-<h3 align="left">My social media</h3>
 <p align="left">
 <a href="https://twitter.com/CryptoCryptAlex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CryptoCryptAlex" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alejandro-mart%C3%ADn-moreno-9128b417b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AleexJr88" height="30" width="40" /></a>
