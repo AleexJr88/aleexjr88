@@ -20,8 +20,12 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="oracle" width="80" height="80"/>
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="mongodb" width="80" height="80"/> 
 <img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png" alt="python" width="80" height="80"/> 
-<img src="http://wikiti.com.br/wp-content/uploads/2020/04/visual-studio-code-logo.png" alt="python" width="80" height="80"/> 
+<img src="http://wikiti.com.br/wp-content/uploads/2020/04/visual-studio-code-logo.png" alt="visualstudiocode" width="80" height="80"/> 
+<img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="reactjs" width="80" height="80"/> 
+<img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs" width="80" height="80"/> 
 
+
+  
 
 </p>
 
