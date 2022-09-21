@@ -14,8 +14,8 @@
 ## 🚀 Languages and tools I've worked with
 
 <p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="80"/> 
-<img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="60" height="80"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> 
+<img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="80" height="80"/> 
 <img src="https://chrisconlan.com/wp-content/uploads/2018/06/haskell_logo_2.png" alt="haskell" width="80" height="80"/> 
 <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="oracle" width="80" height="80"/>
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="mongodb" width="80" height="80"/> 
