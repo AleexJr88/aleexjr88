@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> 
 <img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="60" height="60"/> 
 <img src="https://chrisconlan.com/wp-content/uploads/2018/06/haskell_logo_2.png" alt="haskell" width="60" height="60"/> 
-<img src="https://i7.pngguru.com/preview/724/306/377/c-programming-language-icon-letter-c-png.jpg" alt="c" width="60" height="60"/> 
+<img src="https://toppng.com/public/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" alt="c" width="60" height="60"/> 
 <img src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" alt="solidity" width="60" height="60"/> 
 </p>
 
