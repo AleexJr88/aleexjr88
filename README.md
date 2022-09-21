@@ -19,6 +19,9 @@
 <img src="https://chrisconlan.com/wp-content/uploads/2018/06/haskell_logo_2.png" alt="haskell" width="80" height="80"/> 
 <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="oracle" width="80" height="80"/>
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="mongodb" width="80" height="80"/> 
+<img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png" alt="python" width="80" height="80"/> 
+<img src="http://wikiti.com.br/wp-content/uploads/2020/04/visual-studio-code-logo.png" alt="python" width="80" height="80"/> 
+
 
 </p>
 
