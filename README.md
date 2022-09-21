@@ -13,8 +13,11 @@
 
 ## 🚀 Languages and tools I've worked with
 
+<p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 <img src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" alt="solidity" width="40" height="40"/> 
+</p>
+
 <br>
 
 ## 💻 Connect with me
