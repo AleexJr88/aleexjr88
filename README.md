@@ -34,8 +34,10 @@
 <img src="https://logodownload.org/wp-content/uploads/2017/10/filezilla-logo-2.png" alt="filezilla" width="80" height="80"/> 
 <img src="https://logodownload.org/wp-content/uploads/2017/06/stripe-logo.png" alt="stripe" width="80" height="80"/>
 <img src="https://download.logo.wine/logo/OVH/OVH-Logo.wine.png" alt="ovh" width="80" height="80"/>
-<img src="https://www.blockchainacademy.asia/wp-content/uploads/2019/04/solidity-188x300.png" alt="solidity" width="80" height="80"/> 
+<img src="https://www.blockchainacademy.asia/wp-content/uploads/2019/04/solidity-188x300.png" alt="solidity" width="80" height="80"/>
+<img src="https://definicionesde.org/wp-content/uploads/2020/07/Ipfs-logo-1024-ice-text-700x700.png" alt="ipfs" width="80" height="80"/> 
 
+  
 </p>
 
 <br>
