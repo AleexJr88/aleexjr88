@@ -1,8 +1,8 @@
-<h1 align="center"> 👋 Hi there! I'm Alex </h1>
+<h1 align="center"> Hi there 👋, I'm Alex </h1>
 
 <h3 align="center"> I'm a Blockchain Developer from Spain! </h3>
 
-## About me
+## ✨ About me
 
 * Bachelor degree in Computer Science at University of Málaga 🎓
 * Self-taught, proactive attitude and always eager to learn 🤓
