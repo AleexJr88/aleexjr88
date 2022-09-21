@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> 
 <img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="60" height="60"/> 
 <img src="https://chrisconlan.com/wp-content/uploads/2018/06/haskell_logo_2.png" alt="haskell" width="60" height="60"/> 
-<img src="https://marcas-logos.net/wp-content/uploads/2020/11/Oracle-logo.png" alt="oracle" width="60" height="60"/> 
+<img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="oracle" width="60" height="60"/> 
 
 </p>
 
