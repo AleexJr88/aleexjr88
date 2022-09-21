@@ -29,8 +29,12 @@
 <img src="https://logonoid.com/images/phpmyadmin-logo.png" alt="phpmyadmin" width="80" height="80"/> 
 <img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" alt="mysql" width="80" height="80"/> 
 <img src="https://download.logo.wine/logo/Vue.js/Vue.js-Logo.wine.png" alt="vuejs" width="80" height="80"/> 
-  
-
+<img src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png" alt="firebase" width="80" height="80"/> 
+<img src="https://makeable.dk/wp-content/uploads/2020/09/logo_ionic-1024x1024.png" alt="ionic" width="80" height="80"/> 
+<img src="https://logodownload.org/wp-content/uploads/2017/10/filezilla-logo-2.png" alt="filezilla" width="80" height="80"/> 
+<img src="https://logodownload.org/wp-content/uploads/2017/06/stripe-logo.png" alt="stripe" width="80" height="80"/>
+<img src="https://download.logo.wine/logo/OVH/OVH-Logo.wine.png" alt="ovh" width="80" height="80"/>
+<img src="https://www.blockchainacademy.asia/wp-content/uploads/2019/04/solidity-188x300.png" alt="solidity" width="80" height="80"/> 
 
 </p>
 
