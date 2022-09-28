@@ -24,7 +24,7 @@
 <img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="reactjs" width="60" height="60"/> 
 <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs" width="60" height="60"/> 
 <img src="https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png" alt="nodejs" width="60" height="60"/>
-<img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" alt="html-js-css" width="60" height="60"/>
+<img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" alt="html-js-css" width="100" height="60"/>
 <img src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png" alt="php" width="60" height="60"/> 
 <img src="https://logonoid.com/images/phpmyadmin-logo.png" alt="phpmyadmin" width="60" height="60"/> 
 <img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" alt="mysql" width="60" height="60"/> 
